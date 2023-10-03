@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "gamePlaceholdername",
+			"Path": "..\\Source\\gamePlaceholdername.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "gamePlaceholdernameEditor",
+			"Path": "..\\Source\\gamePlaceholdernameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
